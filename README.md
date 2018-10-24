@@ -1,4 +1,4 @@
-# Bitbucket Pipelines Docker image based on andmetoo/bitbucket-pipelines-php7
+# Bitbucket Pipelines Docker image PHP7/Node/MySQL/Cypress.io
 
 ### Packages installed by andmetoo/bitbucket-pipelines-php7
 
