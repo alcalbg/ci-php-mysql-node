@@ -1,5 +1,7 @@
 # Bitbucket Pipelines Docker image PHP7/Node/MySQL/Cypress.io
 
+[![](https://images.microbadger.com/badges/image/alcalbg/ci-php-mysql-node.svg)](https://microbadger.com/images/alcalbg/ci-php-mysql-node "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/alcalbg/ci-php-mysql-node.svg)](https://microbadger.com/images/alcalbg/ci-php-mysql-node "Get your own version badge on microbadger.com")
+
 ### Packages installed by andmetoo/bitbucket-pipelines-php7
 
 - Ubuntu 16.04
